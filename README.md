@@ -7,7 +7,7 @@ A plugin for notepad++ which performs the functionality of selecting all occurre
 - Using multiple cursors at the positions of the strings highlighted above and moving theses cursors freely using arrow keys from the keyboard
 
 ## Demo
-![Continuous Looping Video]([URL_TO_YOUR_GIF](https://github.com/LailaHammouda/AllOccurenceSelector-NPP-Plugin/commit/d266870db13d0c7233bd8e45cff13b24bb551b54))
+![Demo_GIF](https://github.com/LailaHammouda/AllOccurenceSelector-NPP-Plugin/assets/54313648/70112f37-10e2-4eb5-b3c5-f93f3b8e383f)
 
 ## Installation Steps
 1. Download the **"AllOccurenceSelector.dll"** file from this repo.
