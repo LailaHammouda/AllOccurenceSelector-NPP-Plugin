@@ -1,5 +1,5 @@
 # AllOccurenceSelector-NPP-Plugin
-A plugin for notepad++ which performs the functionality of selecting all occurrences of the currently highlighted string and multi-cursoring at these strings. It offers two modes: the first one selects all whole word occurences identical to the highlighted string, and the second one selects all identical characters whether as a whole word or as substrings of another string.
+A plugin for notepad++ which performs the functionality of selecting all occurrences of the currently highlighted string and multi-cursoring starting at the position of these strings. It offers two modes: the first one selects all whole word occurences identical to the highlighted string, and the second one selects all identical characters whether as a whole word or as substrings of another string.
 
 ## Key Features
 - Selecting all occurrences of highlighted string whether identical whole words or identical characters (whether whole words or substings).
