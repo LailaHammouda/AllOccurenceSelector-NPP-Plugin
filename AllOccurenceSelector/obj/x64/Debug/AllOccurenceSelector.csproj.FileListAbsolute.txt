@@ -1,0 +1,20 @@
+C:\Users\lily_\OneDrive\Documents\Uni\Internships\Siemens\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\bin\Debug-x64\AllOccurenceSelector.dll
+C:\Users\lily_\OneDrive\Documents\Uni\Internships\Siemens\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\bin\Debug-x64\AllOccurenceSelector.pdb
+C:\Users\lily_\OneDrive\Documents\Uni\Internships\Siemens\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\AllOccurenceSelector.csproj.AssemblyReference.cache
+C:\Users\lily_\OneDrive\Documents\Uni\Internships\Siemens\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\Kbg.NppPluginNET.frmMyDlg.resources
+C:\Users\lily_\OneDrive\Documents\Uni\Internships\Siemens\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\AllOccurenceSelector.Properties.Resources.resources
+C:\Users\lily_\OneDrive\Documents\Uni\Internships\Siemens\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\AllOccurenceSelector.csproj.GenerateResource.cache
+C:\Users\lily_\OneDrive\Documents\Uni\Internships\Siemens\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\AllOccurenceSelector.csproj.CoreCompileInputs.cache
+C:\Users\lily_\OneDrive\Documents\Uni\Internships\Siemens\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\AllOccurenceSelector.dll
+C:\Users\lily_\OneDrive\Documents\Uni\Internships\Siemens\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\AllOccurenceSelector.pdb
+C:\Users\lily_\OneDrive\Documents\Courses\Siemens Internship\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\bin\Debug-x64\AllOccurenceSelector.dll
+C:\Users\lily_\OneDrive\Documents\Courses\Siemens Internship\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\bin\Debug-x64\AllOccurenceSelector.pdb
+C:\Users\lily_\OneDrive\Desktop\plugin\AllOccurenceSelector.dll
+C:\Users\lily_\OneDrive\Desktop\plugin\AllOccurenceSelector.pdb
+C:\Users\lily_\OneDrive\Documents\Courses\Siemens Internship\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\AllOccurenceSelector.csproj.AssemblyReference.cache
+C:\Users\lily_\OneDrive\Documents\Courses\Siemens Internship\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\Kbg.NppPluginNET.frmMyDlg.resources
+C:\Users\lily_\OneDrive\Documents\Courses\Siemens Internship\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\AllOccurenceSelector.Properties.Resources.resources
+C:\Users\lily_\OneDrive\Documents\Courses\Siemens Internship\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\AllOccurenceSelector.csproj.GenerateResource.cache
+C:\Users\lily_\OneDrive\Documents\Courses\Siemens Internship\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\AllOccurenceSelector.csproj.CoreCompileInputs.cache
+C:\Users\lily_\OneDrive\Documents\Courses\Siemens Internship\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\AllOccurenceSelector.dll
+C:\Users\lily_\OneDrive\Documents\Courses\Siemens Internship\NPP_Plugin\AllOccurenceSelector\AllOccurenceSelector\obj\x64\Debug\AllOccurenceSelector.pdb
